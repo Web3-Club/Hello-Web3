@@ -2,6 +2,12 @@
 面向萌新的Web3“白皮书” | 官网 [hello-web3.com](https://hello-web3.com)
 
 
+![hello Web3](https://github.com/Web3-Club/Hello-Web3/assets/76860915/1efb01c2-fa69-4cda-9de8-d350641280d0)
+
+
+
+
+
 ## 💐 赞助我们 
 ### 通过Donate3
 
