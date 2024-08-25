@@ -40,6 +40,9 @@
 我希望这是一份让99%的朋友都能看懂的一份Web3通识文档，让这个仓库成为所有人进入Web3世界的巴别塔，真正实现Mass Adoption。
 
 
+## 贡献者
+
+[![contrib graph](https://contrib.rocks/image?repo=Web3-Club/Hello-Web3)](https://github.com/Web3-Club/Hello-Web3/graphs/contributors)  
 
 
 
