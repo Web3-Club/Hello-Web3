@@ -54,7 +54,7 @@
 
 ### Ethereum
 
-             0x663d5dafe4362927e6dab344e8953b0ad4439d3f
+`0x663d5dafe4362927e6dab344e8953b0ad4439d3f`
 
 您的钱包地址将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
 **感谢您对我们社区未来健康发展所作出的支持!**
